@@ -2,6 +2,9 @@
 
 This is the first file in this repo
 
-#Ipsum below 
+##Website Content
 
-Maak er maar wat van.
+Here are the files in the website.
+
+1 Index.html
+
